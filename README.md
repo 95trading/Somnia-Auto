@@ -11,7 +11,7 @@ The project has raised up to **$270M** from major funds such as **Improbableio, 
 ✅ Auto claim **$STT** faucet tokens.  
 ✅ Auto send **$STT** to other wallets.  
 ✅ Multi-account support + Proxy integration.  
-
+## Info: https://t.me/trader95channel/834?single
 ---
 
 ## 🛠 How to Use the Bot  
